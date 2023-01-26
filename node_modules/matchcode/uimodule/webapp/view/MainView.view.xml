@@ -1,0 +1,9 @@
+<mvc:View controllerName="demo.matchcode.controller.MainView"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m"
+    xmlns:demo="zsap.com.libreriaMatchcode"
+    >
+    <Page id="page" title="{i18n>title}">
+        <demo:Example />
+    </Page>
+</mvc:View>

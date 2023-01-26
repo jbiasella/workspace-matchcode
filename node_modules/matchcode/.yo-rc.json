@@ -1,0 +1,24 @@
+{
+  "generator-template-ui5-project": {
+    "projectname": "matchcode",
+    "namespaceUI5": "demo",
+    "enableFPM": false,
+    "platform": "SAP NetWeaver",
+    "viewtype": "XML",
+    "ui5libs": "Content delivery network (SAPUI5)",
+    "newdir": true,
+    "codeassist": false,
+    "initrepo": false,
+    "namespaceURI": "demo",
+    "opa5pos": [
+      "Main"
+    ],
+    "opa5Journeys": [
+      "Main"
+    ],
+    "uimodules": [
+      "uimodule"
+    ],
+    "setupCompleted": true
+  }
+}
